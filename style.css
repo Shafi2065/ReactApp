@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 500px;
+    background-color: rgb(109, 139, 168); 
+  }
+
+  #LandingTitle {
+    color: white;
+  }
+
